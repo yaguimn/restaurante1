@@ -1,0 +1,62 @@
+[
+    {
+      "nome": "Espaguete à Bolonhesa",
+      "preco": 27.00
+    },
+    {
+      "nome": "Risoto de Cogumelos",
+      "preco": 35.00
+    },
+    {
+      "nome": "Frango Grelhado com Legumes",
+      "preco": 29.00
+    },
+    {
+      "nome": "Quiche de Queijo e Espinafre",
+      "preco": 22.00
+    },
+    {
+      "nome": "Smoothie de Morango",
+      "preco": 9.00
+    },
+    {
+      "nome": "Salada Caesar",
+      "preco": 18.00
+    },
+    {
+      "nome": "Lasanha de Frango",
+      "preco": 32.00
+    },
+    {
+      "nome": "Sopa de Legumes",
+      "preco": 15.00
+    },
+    {
+      "nome": "Panqueca Doce",
+      "preco": 12.00
+    },
+    {
+      "nome": "Café Expresso",
+      "preco": 5.00
+    },
+    {
+      "nome": "Bolo de Chocolate",
+      "preco": 10.00
+    },
+    {
+      "nome": "Hambúrguer Vegetariano",
+      "preco": 26.00
+    },
+    {
+      "nome": "Peixe Assado com Ervas",
+      "preco": 38.00
+    },
+    {
+      "nome": "Torta de Frango",
+      "preco": 24.00
+    },
+    {
+      "nome": "Refrigerante 600ml",
+      "preco": 8.00
+    }
+]
