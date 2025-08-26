@@ -1,0 +1,25 @@
+<div Id="Tabela">
+<h1 id="titulo">Cardápio</h1>
+    <p></p>     
+{{#if produtos}}
+    <table   border="1">
+         <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Preço</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each produtos}}
+            <tr>
+                <td>{{nome}}</td>
+                <td>R$ {{preco}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+
+{{else}}
+    <p>Nenhum produto cadastrado.</p>
+{{/if}}
+</div>
